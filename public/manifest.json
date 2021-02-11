@@ -3,12 +3,12 @@
   "name": "The Epilepsy App",
   "icons": [
     {
-      "src": "logo192.png",
+      "src": "logo192-new.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo512-new.png",
       "type": "image/png",
       "sizes": "512x512"
     }
