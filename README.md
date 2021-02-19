@@ -45,7 +45,7 @@ I made sure that the data was fetched at signup/login and reload and updated in 
 
 Then, I created an animated hamburger menu mainly based on React Router hook Navlink.
 
-Finally, I made a copy of this repository and converted it to a Progressive Web Application. See https://github.com/MindstormingAB/my-final-project-client-pwa for more information
+Finally, I made a copy of this repository and converted it to a Progressive Web Application.
 
 ## Limitations
 
