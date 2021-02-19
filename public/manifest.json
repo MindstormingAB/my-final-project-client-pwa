@@ -3,14 +3,22 @@
   "name": "The Epilepsy App",
   "icons": [
     {
-      "src": "logo192-new.png",
+      "src": "logo192-new-transparent.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any"
     },
     {
-      "src": "logo512-new.png",
+      "src": "logo512-new-transparent.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "logo640-maskable.png",
+      "type": "image/png",
+      "sizes": "640x640",
+      "purpose": "maskable"
     }
   ],
   "start_url": ".",
