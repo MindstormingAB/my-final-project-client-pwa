@@ -45,7 +45,7 @@ I made sure that the data was fetched at signup/login and reload and updated in 
 
 Then, I created an animated hamburger menu mainly based on React Router hook Navlink.
 
-Finally, I made a copy of this repository and converted it to a Progressive Web Application.
+Finally, I made this copy of the original repository (https://github.com/MindstormingAB/my-final-project-client) and converted it to a Progressive Web Application.
 
 ## Limitations
 
@@ -56,7 +56,7 @@ If I had more time, I would have:
 - made it possible to choose which emergency contacts to be displayed on wallpaper
 - added a section Medication
 - created different diagrams to choose between
-- found a way to update PWA cache on update
+- found a way to update PWA cache when I deploy a new version
 
 ## Responsiveness
 
@@ -100,7 +100,11 @@ On the backend side of the project (see https://github.com/MindstormingAB/my-fin
 ## View it live
 
 This repository is located on https://github.com/MindstormingAB/my-final-project-client-pwa.
+
 You can take a look at the result on https://epilepsy-app-pwa.netlify.app/.
+
 The API can be found on https://ep-app-api.herokuapp.com/.
+
 There is also a standard app version on https://epilepsy-app.netlify.app/ and you can find more information about it on https://github.com/MindstormingAB/my-final-project-client. 
+
 Enjoy!
